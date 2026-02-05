@@ -29,7 +29,7 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 
 - *RA-L 2023* — **Telerobotic Transcatheter Delivery System for Mitral Valve Implant** · [link](https://ieeexplore.ieee.org/document/10161486)
 
-- *ICRA 2023* — **Modeling of a Robotic Transcatheter Delivery System** · [link](Modeling of a robotic transcatheter delivery system)
+- *ICRA 2023* — **Modeling of a Robotic Transcatheter Delivery System** · [link](https://ieeexplore.ieee.org/document/10161486)
 
 - *TMRB 2022* — **Toward the Design and Development of a Robotic Transcatheter Delivery System for Mitral Valve Implant** · [link](https://ieeexplore.ieee.org/document/9924536)
 
