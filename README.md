@@ -4,11 +4,12 @@ A curated list of engineering works in robot-assisted cardiac surgery and interv
 
 ## A. Cardiac Intervention Robotics
 ### A1.Add-on robotic system for MitraClip system
-- *TMRB 2023* — **Compact design and task space control of a robotic transcatheter delivery system for mitral valve implant** · [link](https://ieeexplore.ieee.org/document/10246837)
+
 
 ### A2 Add-on robotic system for PASCAL system
 - 
 ### A3 Integrated robotic catheter / delivery systems
+- *TMRB 2023* — **Compact design and task space control of a robotic transcatheter delivery system for mitral valve implant** · [link](https://ieeexplore.ieee.org/abstract/document/10234602)
 
 
 ## B. Cardiac Imaging Robotics
