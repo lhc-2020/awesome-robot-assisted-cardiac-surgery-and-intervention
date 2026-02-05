@@ -52,6 +52,9 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 
 - *TMRB 2025* — **MR-Conditional Robotic Cardiac Intervention: Design and Validation in Patient-Specific Phantoms** · [link](https://ieeexplore.ieee.org/document/11015515)
 
+### Robotic system for transseptal puncture 
+- *TBME 2025* — **SeptalPro: Development and Usability Evaluation of a Force-Sensing Robotic Transseptal Puncture System for Cardiac Interventions** · [link](https://doi.org/10.1109/TBME.2025.3561111)
+
 
 
 
