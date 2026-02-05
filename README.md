@@ -1,6 +1,6 @@
-# Awesome Works in Robot-Assisted Cardiac Surgery and Intervention
+# Awesome Works in Robot-Assisted Cardiac Intervention
 
-A curated list of engineering works in robot-assisted cardiac surgery and intervention, covering system design, modeling, control, and emerging autonomy/intelligence.
+A curated list of engineering works in robot-assisted cardiac intervention, covering system design, modeling, control, and emerging autonomy/intelligence.
 
 ## A. Cardiac Intervention Robotics
 ### A1.Add-on robotic system for MitraClip system
