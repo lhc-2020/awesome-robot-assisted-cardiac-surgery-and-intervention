@@ -2,22 +2,22 @@
 
 A curated list of engineering works in robot-assisted cardiac intervention, covering system design, modeling, control, and emerging autonomy/intelligence.
 
-## A. Cardiac Intervention Robotics
+## Cardiac Intervention Robotics
 ### A1.Robotic system for mitral valve repair (MitraClip)
 - *TMRB 2025* — **Model-Based Position Control of a Tendon-Driven Variable-Length Continuum Robot for Minimally Invasive Mitral Valve Repair** · [link](https://ieeexplore.ieee.org/document/10924216)
-  
+  https://github.com/lhc-2020/awesome-robot-assisted-cardiac-surgery-and-intervention/blob/main/README.md
 - *IJCARS 2024* — **Path tracking control of a steerable catheter in transcatheter cardiology interventions** · [link](https://pubmed.ncbi.nlm.nih.gov/38386176/)
   
 - *IROS 2022* — **Robotic Actuation and Control of a Catheter for Structural Intervention Cardiology**· [link](https://ieeexplore.ieee.org/document/9981676)
 
-### A2 Robotic system for mitral valve repair (PASCAL)
+### Robotic system for mitral valve repair (PASCAL)
 - *TBME 2025* — **Development and Evaluation of a Robotic System for Safe Cardiac Sheath Delivery** · [link](https://ieeexplore.ieee.org/document/10937243)
   
 - *TMech 2025* — **Compact Design and Image-Space Pose Control of a Robot for Tendon-Driven Concentric  Catheters in Mitral Repair Interventions**  · [link](https://ieeexplore.ieee.org/document/11157705)
   
 - *RA-L 2024* — **Universal Actuation Module and Kinematic Model for Heart Valve Interventional Catheter Robotization** · [link](https://ieeexplore.ieee.org/abstract/document/10499833)
 
-### A3 Robotic system for mitral valve implant
+### Robotic system for mitral valve implant
 
 - *arXiv 2025* — **Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral Valve** · [link](https://arxiv.org/abs/2510.04178)
 
@@ -39,8 +39,8 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 
 
 
-## B. Cardiac Imaging Robotics
-### B1. Robotic TEE (Transesophageal Echocardiography)
-### B2. Other intraoperative cardiac imaging robots 
+## Cardiac Imaging Robotics
+### Robotic TEE (Transesophageal Echocardiography)
+### Other intraoperative cardiac imaging robots 
 
 
