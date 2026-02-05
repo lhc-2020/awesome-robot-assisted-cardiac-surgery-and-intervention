@@ -5,7 +5,7 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 ## Cardiac Intervention Robotics
 ### Robotic system for mitral valve repair (MitraClip)
 - *TMRB 2025* — **Model-Based Position Control of a Tendon-Driven Variable-Length Continuum Robot for Minimally Invasive Mitral Valve Repair** · [link](https://ieeexplore.ieee.org/document/10924216)
-  https://github.com/lhc-2020/awesome-robot-assisted-cardiac-surgery-and-intervention/blob/main/README.md
+
 - *IJCARS 2024* — **Path tracking control of a steerable catheter in transcatheter cardiology interventions** · [link](https://pubmed.ncbi.nlm.nih.gov/38386176/)
   
 - *IROS 2022* — **Robotic Actuation and Control of a Catheter for Structural Intervention Cardiology**· [link](https://ieeexplore.ieee.org/document/9981676)
