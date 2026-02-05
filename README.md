@@ -6,9 +6,9 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 ### Robotic system for aortic valve intervention
 - *Front. Robot. AI 2025* — **Towards autonomous robot-assisted transcatheter heart valve implantation: in vivo teleoperation and phantom** · [link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1650228/full)
 
-- *TRO 2023* —**Semiautonomous Robotic Manipulator for Minimally Invasive Aortic Valve Replacement** · [link](https://ieeexplore.ieee.org/document/10274565)
+- *TRO 2023* — **Semiautonomous Robotic Manipulator for Minimally Invasive Aortic Valve Replacement** · [link](https://ieeexplore.ieee.org/document/10274565)
   
-- *TBME 2021* —**ValveTech: A Novel Robotic Approach for Minimally Invasive Aortic Valve Replacement** · [link](https://ieeexplore.ieee.org/document/9198127)
+- *TBME 2021* — **ValveTech: A Novel Robotic Approach for Minimally Invasive Aortic Valve Replacement** · [link](https://ieeexplore.ieee.org/document/9198127)
   
 ### Robotic system for mitral valve repair (MitraClip)
 - *TMRB 2025* — **Visuo-Haptic Feedback and Extended Reality in Microinvasive Cardiac Surgery: A Next-Generation Simulator for Mitral Valve Repair** · [link](https://ieeexplore.ieee.org/document/11299599)
@@ -56,7 +56,16 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 
 - *TBME 2025* — **SeptalPro: Development and Usability Evaluation of a Force-Sensing Robotic Transseptal Puncture System for Cardiac Interventions** · [link](https://ieeexplore.ieee.org/document/10965360)
 
-- - *RA-L 2025* — **A robotic system with path planning and visual guidance for teleoperated left atrial appendage closure** · [link](https://doi.org/10.1109/LRA.2025.3592056)
+- *RA-L 2025* — **A robotic system with path planning and visual guidance for teleoperated left atrial appendage closure** · [link](https://doi.org/10.1109/LRA.2025.3592056)
+
+- *Robotics 2025* — **Design and Evaluation of a Dual-Bendable, Compressible Robotic Guide Sheath for Heart Valve Interventions** · [link](https://doi.org/10.3390/robotics14110162)
+
+## Planning and navigation
+
+- *TBME 2025* — **Robust path planning via learning from demonstrations for robotic catheters in deformable environments** · [link](https://doi.org/10.1109/TBME.2024.3452034)
+
+- *TBME 2025* — **Imitation learning for path planning in cardiac percutaneous interventions** · [link](https://doi.org/10.1109/TBME.2025.3542224)
+
 
 
 
