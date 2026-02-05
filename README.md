@@ -3,6 +3,13 @@
 A curated list of engineering works in robot-assisted cardiac intervention, covering system design, modeling, control, and emerging autonomy/intelligence.
 
 ## Cardiac Intervention Robotics
+### Robotic system for aortic valve intervention
+- *Front. Robot. AI 2025* — **Towards autonomous robot-assisted transcatheter heart valve implantation: in vivo teleoperation and phantom** · [link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1650228/full)
+
+- *TRO 2023* —**Semiautonomous Robotic Manipulator for Minimally Invasive Aortic Valve Replacement** · [link](https://ieeexplore.ieee.org/document/10274565)
+  
+- *TBME 2021* —**ValveTech: A Novel Robotic Approach for Minimally Invasive Aortic Valve Replacement** · [link](https://ieeexplore.ieee.org/document/9198127)
+  
 ### Robotic system for mitral valve repair (MitraClip)
 - *TMRB 2025* — **Visuo-Haptic Feedback and Extended Reality in Microinvasive Cardiac Surgery: A Next-Generation Simulator for Mitral Valve Repair** · [link](https://ieeexplore.ieee.org/document/11299599)
 - 
