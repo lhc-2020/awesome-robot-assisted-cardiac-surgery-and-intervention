@@ -12,7 +12,7 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
   
 ### Robotic system for mitral valve repair (MitraClip)
 - *TMRB 2025* — **Visuo-Haptic Feedback and Extended Reality in Microinvasive Cardiac Surgery: A Next-Generation Simulator for Mitral Valve Repair** · [link](https://ieeexplore.ieee.org/document/11299599)
-- 
+  
 - *TMRB 2025* — **Model-Based Position Control of a Tendon-Driven Variable-Length Continuum Robot for Minimally Invasive Mitral Valve Repair** · [link](https://ieeexplore.ieee.org/document/10924216)
 
 - *IJCARS 2024* — **Path tracking control of a steerable catheter in transcatheter cardiology interventions** · [link](https://pubmed.ncbi.nlm.nih.gov/38386176/)
