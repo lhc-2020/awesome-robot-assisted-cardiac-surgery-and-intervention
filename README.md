@@ -61,6 +61,7 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 - *Robotics 2025* — **Design and Evaluation of a Dual-Bendable, Compressible Robotic Guide Sheath for Heart Valve Interventions** · [link](https://doi.org/10.3390/robotics14110162)
 
 ## Planning and navigation
+- *ISMR 2025* — **Towards autonomous navigation of neuroendovascular tools for timely stroke treatment via contact-aware path planning** · [link](https://doi.org/10.1109/ISMR67322.2025.11025974)
 
 - *TBME 2025* — **Robust path planning via learning from demonstrations for robotic catheters in deformable environments** · [link](https://doi.org/10.1109/TBME.2024.3452034)
 
