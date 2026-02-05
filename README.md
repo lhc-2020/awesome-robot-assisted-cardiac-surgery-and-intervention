@@ -41,7 +41,7 @@ A curated list of engineering works in robot-assisted cardiac intervention, cove
 
 - *RA-L 2026* — **From Patient-Specific Digital Twin to Real-World Phantom: Autonomous Right Heart Catheterization** · [link](https://ieeexplore.ieee.org/document/11358831)
 
-- *RA-L 2025* — **MR-Conditional Robotic Cardiac Intervention: Design and Validation in Patient-Specific Phantoms** · [link](https://ieeexplore.ieee.org/document/11015515)
+- *TMRB 2025* — **MR-Conditional Robotic Cardiac Intervention: Design and Validation in Patient-Specific Phantoms** · [link](https://ieeexplore.ieee.org/document/11015515)
 
 
 
